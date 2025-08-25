@@ -1,0 +1,18 @@
+a{
+    font-size: 20pt;
+    background-color: turquoise;
+    width: 200px;
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    text-align: center;
+    color: purple;
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 20px;
+}
+a:hover{
+    background-color: red;
+    color: green;
+    transform: scale(2);
+}
